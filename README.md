@@ -1,4 +1,4 @@
-# Juego-3-rayas
+# Webpack 5 - configuracion
 Configuracion Webpack 5 desde cero
 
 ![Configuracion webpack 5](/img/main.png)
