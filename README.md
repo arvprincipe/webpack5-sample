@@ -9,7 +9,7 @@ Este repo contiene un pequeño ejemplo de construcción de juego usando JavaScri
 ## 👋 Salúdame
 
 Web: [www.arvprincipe.com](https://www.arvprincipe.com) - Mi sitio web<br>
-Instagram: [@arvprincipe](https://www.instagram.com/arvprincipe/) - Mi lugar favorito para compartir post y vivenvias<br>
+Instagram: [@arvprincipe.dev](https://www.instagram.com/arvprincipe.dev/) - Mi lugar favorito para compartir post y vivenvias<br>
 Facebook: [@arvprincipeweb](https://www.facebook.com/arvprincipeweb) - Ver todos mis posts y donde anuncio cosas<br>
 Linkedin: [@arvprincipe](https://www.linkedin.com/in/arvprincipe/) - Mi perfil para contactart<br>
 
